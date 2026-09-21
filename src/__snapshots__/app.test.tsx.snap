@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Application The cart item display Should math the snapshot 1`] = `
+<div>
+  <div>
+    A
+     - 
+    100
+  </div>
+  <div>
+    B
+     - 
+    100
+  </div>
+</div>
+`;
